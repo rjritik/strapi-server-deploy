@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "book_selves",
+  "info": {
+    "singularName": "book-self",
+    "pluralName": "book-selves",
+    "displayName": "BookSelf",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "BookSelfCategory": {
+      "displayName": "Category",
+      "type": "component",
+      "repeatable": true,
+      "component": "category.category"
+    }
+  }
+}

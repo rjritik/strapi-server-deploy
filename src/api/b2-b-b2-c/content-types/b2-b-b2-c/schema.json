@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "b2_b_b2_cs",
+  "info": {
+    "singularName": "b2-b-b2-c",
+    "pluralName": "b2-b-b2-cs",
+    "displayName": "Service B2B B2C",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "B2BHeader": {
+      "displayName": "B2BHeader",
+      "type": "component",
+      "repeatable": false,
+      "component": "b2b-header.b2-b-header"
+    },
+    "B2BContent": {
+      "type": "richtext"
+    },
+    "SEO": {
+      "type": "component",
+      "repeatable": true,
+      "component": "seo.seo"
+    }
+  }
+}

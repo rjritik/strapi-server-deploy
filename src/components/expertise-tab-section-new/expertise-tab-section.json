@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_expertise_tab_section_new_expertise_tab_sections",
+  "info": {
+    "displayName": "ExpertiseTabSection"
+  },
+  "options": {},
+  "attributes": {
+    "TitleExpertise": {
+      "type": "string"
+    },
+    "DescriptionExpertise": {
+      "type": "richtext"
+    },
+    "MediaImagesExpertise": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "MediaTitleExpertise": {
+      "type": "string"
+    }
+  }
+}

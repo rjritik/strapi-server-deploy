@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_category_categories",
+  "info": {
+    "displayName": "Category",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "BookSelfItem": {
+      "displayName": "BookSelfProduct",
+      "type": "component",
+      "repeatable": true,
+      "component": "book-self-product.book-self-product"
+    }
+  }
+}

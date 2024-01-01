@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_achievement_items_achievement_items",
+  "info": {
+    "displayName": "AchievementItems"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "string"
+    }
+  }
+}

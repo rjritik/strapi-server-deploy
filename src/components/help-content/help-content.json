@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_help_content_help_contents",
+  "info": {
+    "displayName": "HelpContent"
+  },
+  "options": {},
+  "attributes": {
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

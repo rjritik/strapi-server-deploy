@@ -1,0 +1,86 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_news",
+  "info": {
+    "singularName": "home-new",
+    "pluralName": "home-news",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeroSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "hero-section.hero-section"
+    },
+    "ServiceItems": {
+      "type": "component",
+      "repeatable": false,
+      "component": "service-items.service-section"
+    },
+    "FAQs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "faq.faq"
+    },
+    "Testimonials": {
+      "type": "component",
+      "repeatable": false,
+      "component": "testimonials.testimonials"
+    },
+    "SaasProject": {
+      "displayName": "SaasProject",
+      "type": "component",
+      "repeatable": false,
+      "component": "saas-project.saas-project"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.seo"
+    },
+    "UltimateUIUXComponent": {
+      "type": "component",
+      "repeatable": false,
+      "component": "ultimate-uiux.ultimate-uiux"
+    },
+    "SkillAndToolsSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "skills-and-tools.skills-and-tools"
+    },
+    "TrustedNewSection": {
+      "displayName": "NewTrustedSection",
+      "type": "component",
+      "repeatable": false,
+      "component": "new-trusted-section.new-trusted-section"
+    },
+    "ProcessApproachComponentsNew": {
+      "displayName": "ProcessApproach",
+      "type": "component",
+      "repeatable": false,
+      "component": "process-approach-comp.process-approach"
+    },
+    "ExpertiseSectionComponentNew": {
+      "displayName": "ExpertiseSection",
+      "type": "component",
+      "repeatable": false,
+      "component": "expertise-section.expertise-section"
+    },
+    "HomeBlogHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "HelpContentSection": {
+      "displayName": "HelpContent",
+      "type": "component",
+      "repeatable": false,
+      "component": "help-content.help-content"
+    }
+  }
+}

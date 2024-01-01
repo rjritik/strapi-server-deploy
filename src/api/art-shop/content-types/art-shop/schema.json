@@ -1,0 +1,40 @@
+{
+  "kind": "singleType",
+  "collectionName": "art_shops",
+  "info": {
+    "singularName": "art-shop",
+    "pluralName": "art-shops",
+    "displayName": "ArtShop",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "PortfolioButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    },
+    "PriceSection": {
+      "displayName": "ArtShopPriceSection",
+      "type": "component",
+      "repeatable": true,
+      "component": "art-shop-price-section.art-shop-price-section"
+    },
+    "BuySection": {
+      "type": "component",
+      "repeatable": true,
+      "component": "art-shop-buy-section.art-shop-buy-section"
+    },
+    "PriceSectionIframe": {
+      "type": "richtext"
+    }
+  }
+}

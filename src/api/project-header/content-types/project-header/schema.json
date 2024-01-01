@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "project_headers",
+  "info": {
+    "singularName": "project-header",
+    "pluralName": "project-headers",
+    "displayName": "ProjectHeader",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "SEO": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.seo"
+    }
+  }
+}

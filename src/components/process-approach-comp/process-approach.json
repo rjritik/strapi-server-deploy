@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_process_approach_comp_process_approaches",
+  "info": {
+    "displayName": "ProcessApproach",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "processHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    },
+    "ProcessButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    },
+    "ProcessSectionPart": {
+      "displayName": "ProcessApproach",
+      "type": "component",
+      "repeatable": true,
+      "component": "process-section-new.process-approach"
+    }
+  }
+}

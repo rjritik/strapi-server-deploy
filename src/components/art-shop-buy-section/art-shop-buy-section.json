@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_art_shop_buy_section_art_shop_buy_sections",
+  "info": {
+    "displayName": "ArtShopBuySection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "ButtonName": {
+      "type": "string"
+    },
+    "ButtonURL": {
+      "type": "string"
+    },
+    "ImageURL": {
+      "type": "string"
+    },
+    "PopupImageURL": {
+      "type": "string"
+    }
+  }
+}

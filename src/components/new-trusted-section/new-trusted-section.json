@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_new_trusted_section_new_trusted_sections",
+  "info": {
+    "displayName": "NewTrustedSection"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "TrustedCompany": {
+      "displayName": "TrustedBrands",
+      "type": "component",
+      "repeatable": true,
+      "component": "trusted-brands-components.trusted-brands"
+    }
+  }
+}

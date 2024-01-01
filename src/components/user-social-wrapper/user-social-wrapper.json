@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_user_social_wrapper_user_social_wrappers",
+  "info": {
+    "displayName": "UserSocialWrapper"
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "type": "component",
+      "repeatable": true,
+      "component": "social-icon.social-icon"
+    }
+  }
+}

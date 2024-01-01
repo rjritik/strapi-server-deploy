@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_achievements_achievements",
+  "info": {
+    "displayName": "Achievements"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Items": {
+      "displayName": "AchievementItems",
+      "type": "component",
+      "repeatable": true,
+      "component": "achievement-items.achievement-items"
+    }
+  }
+}

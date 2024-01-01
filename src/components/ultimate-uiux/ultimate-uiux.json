@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_ultimate_uiux_ultimate_uiuxes",
+  "info": {
+    "displayName": "UltimateUIUX"
+  },
+  "options": {},
+  "attributes": {
+    "Author": {
+      "type": "string"
+    },
+    "Heading": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "LearnMoreButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button1.button1"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_service_middle_service_middles",
+  "info": {
+    "displayName": "serviceMiddle",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "MiddleDescription": {
+      "type": "richtext"
+    },
+    "HeaderMiddleContent": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section-header.section-header"
+    }
+  }
+}

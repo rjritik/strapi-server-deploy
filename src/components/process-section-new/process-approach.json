@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_process_section_new_process_approaches",
+  "info": {
+    "displayName": "ProcessApproach"
+  },
+  "options": {},
+  "attributes": {
+    "ProcessStepTitle": {
+      "type": "string"
+    },
+    "ProcessTitle": {
+      "type": "string"
+    },
+    "ProcessContentTitle": {
+      "type": "string"
+    },
+    "ProcessDiscription": {
+      "type": "richtext"
+    },
+    "ProcessListContent": {
+      "type": "richtext"
+    },
+    "ProcessIcon": {
+      "type": "customField",
+      "customField": "plugin::react-icons.icon"
+    }
+  }
+}

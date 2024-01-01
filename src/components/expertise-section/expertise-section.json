@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_expertise_section_expertise_sections",
+  "info": {
+    "displayName": "ExpertiseSection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ExpertiseHeaderTilte": {
+      "type": "string"
+    },
+    "ExpertiseButtonTitle": {
+      "type": "string"
+    },
+    "ExpertiseButtonUrl": {
+      "type": "string"
+    },
+    "ExpertiseButtonDescription": {
+      "type": "richtext"
+    },
+    "ExpertiseTabSectionSection": {
+      "displayName": "ExpertiseTabSection",
+      "type": "component",
+      "repeatable": true,
+      "component": "expertise-tab-section-new.expertise-tab-section"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_art_shop_price_section_art_shop_price_sections",
+  "info": {
+    "displayName": "ArtShopPriceSection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Price": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "ImageURL": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    }
+  }
+}

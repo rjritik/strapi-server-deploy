@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_b2b_header_b2_b_headers",
+  "info": {
+    "displayName": "B2BHeader",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

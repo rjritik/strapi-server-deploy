@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_book_self_product_book_self_products",
+  "info": {
+    "displayName": "BookSelfProduct"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
